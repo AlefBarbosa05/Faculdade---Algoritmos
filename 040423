@@ -1,0 +1,24 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor    : Alessio
+// Descrição   : Pseudocódigo do Diagrama de Blocos
+// Autor(a)    : Alef Barbosa
+// Data atual  : 04/04/2023
+
+Var
+   n1: inteiro
+
+Inicio
+
+      Escreva ("Digite o número:")
+      Leia (n1)
+
+      se (n1 >= 20) e (n1<=90) entao
+      escreva (" Você está na faixa!!")
+
+      senao
+
+      escreva (" Você está fora da faixa!!")
+
+      fimse
+Fimalgoritmo
